@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54799b0e-3fb6-41d6-83f7-a3b9c0f1a296" name="Changes" comment="loppu">
+      <change beforePath="$PROJECT_DIR$/.idea/moduli5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/moduli5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;farhamim222&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/farhamim222/moduli5.git&quot;,
+    &quot;accountId&quot;: &quot;4d647d01-7643-45ab-9a5b-ce224ce0bb3d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lK682V92TOnboZEaIVxbmyxFSP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.001.executor": "Run",
+    "Python.002.executor": "Run",
+    "Python.003.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "moduli5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.428" />
+        <option value="bundled-python-sdk-80e8e15d2b92-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.428" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54799b0e-3fb6-41d6-83f7-a3b9c0f1a296" name="Changes" comment="" />
+      <created>1724916257775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724916257775</updated>
+      <workItem from="1724916265815" duration="446000" />
+      <workItem from="1724916726750" duration="670000" />
+      <workItem from="1724918199099" duration="1962000" />
+      <workItem from="1725016122569" duration="146000" />
+      <workItem from="1725355850566" duration="253000" />
+      <workItem from="1725357163829" duration="1392000" />
+      <workItem from="1725363173375" duration="421000" />
+      <workItem from="1725393536356" duration="593000" />
+      <workItem from="1725394694199" duration="637000" />
+      <workItem from="1725395343308" duration="318000" />
+    </task>
+    <task id="LOCAL-00001" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1724916546790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724916546790</updated>
+    </task>
+    <task id="LOCAL-00002" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1724916695533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724916695533</updated>
+    </task>
+    <task id="LOCAL-00003" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1724917096141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724917096141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1724917130206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724917130206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1724918227237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724918227237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725363213391</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725363213391</updated>
+    </task>
+    <task id="LOCAL-00007" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725394975671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725394975671</updated>
+    </task>
+    <task id="LOCAL-00008" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725395096094</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395096094</updated>
+    </task>
+    <task id="LOCAL-00009" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725395151898</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395151898</updated>
+    </task>
+    <task id="LOCAL-00010" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725395386772</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395386772</updated>
+    </task>
+    <task id="LOCAL-00011" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725395417863</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395417863</updated>
+    </task>
+    <task id="LOCAL-00012" summary="loppu">
+      <option name="closed" value="true" />
+      <created>1725395455352</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1725395455352</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="loppu" />
+    <option name="LAST_COMMIT_MESSAGE" value="loppu" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/moduli5$003.coverage" NAME="003 Coverage Results" MODIFIED="1725394935396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/moduli5$001.coverage" NAME="001 Coverage Results" MODIFIED="1724916481177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/moduli5$002.coverage" NAME="002 Coverage Results" MODIFIED="1725395048954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
